@@ -42,7 +42,7 @@
 ---
 
 ## 🧠 Proyectos destacados
-- 🔹 [Ahorcado-ResberryPi-Qemu](https://github.com/mateoPosada82231/Ahorcado-ResberryPi-Qemu) — Juego del ahorcado en assembler ARM para Raspberry Pi emulada con QEMU.
+- 🔹 [Ahorcado-RaspberryPi-Qemu](https://github.com/mateoPosada82231/Ahorcado-ResberryPi-Qemu) — Juego del ahorcado en assembler ARM para Raspberry Pi emulada con QEMU.
 - 🔹 [BookHub](https://github.com/mateoPosada82231/BookHub) — Proyecto en TypeScript.
 - 🔹 [compresor-huffman](https://github.com/mateoPosada82231/compresor-huffman) — Implementación del algoritmo Huffman en C++.
 - 🔹 [poliglota-postgres-neo](https://github.com/mateoPosada82231/poliglota-postgres-neo) — Proyecto en Python.
