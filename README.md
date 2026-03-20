@@ -13,11 +13,14 @@
   <a href="https://mateoposada82231.github.io/mi-portafolio/">🌐 Portafolio</a>
 </p>
 
+
+![Snake animado](https://raw.githubusercontent.com/mateoPosada82231/mateoPosada82231/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🚀 Sobre mí
 - 💻 Me gusta construir proyectos prácticos y aprender nuevas tecnologías.
-- 🌱 Actualmente fortaleciendo habilidades en **TypeScript, Python y C++**.
+- 🌱 Actualmente fortaleciendo habilidades en **TypeScript, Python y Java**.
 - 🧩 Interesado en desarrollo de software, estructuras de datos y sistemas.
 
 ---
@@ -49,18 +52,6 @@
 
 ---
 
-## ✨ Espacios para embellecer aún más tu perfil
-> Ya te dejé los espacios listos con comentarios para que pegues recursos cuando quieras.
-
-<!--
-RECURSO 1: TROFEOS
-Página: https://github.com/ryo-ma/github-profile-trophy
-Qué hacer:
-1) Entrar a la página del recurso.
-2) Configurar el URL con tu username: mateoPosada82231.
-3) Copiar el bloque <img ...> y pegarlo debajo de este comentario.
--->
-
 <!--
 RECURSO 2: SNAKE DE CONTRIBUCIONES
 Página: https://github.com/Platane/snk
@@ -70,24 +61,4 @@ Qué hacer:
 3) Pegar aquí el <img src="...snake.svg" ...>.
 -->
 
-<!--
-RECURSO 3: BADGES DE HABILIDADES ADICIONALES
-Página: https://shields.io/ y https://github.com/tandpfun/skill-icons
-Qué hacer:
-1) Crear badges personalizados (por ejemplo: backend, databases, devops).
-2) Copiar los <img ...> y agregarlos en la sección de tecnologías.
--->
-
 ---
-
-## 📌 Cómo agregar más recursos visuales (rápido)
-1. Entra a uno de estos sitios:  
-   - https://github.com/ryo-ma/github-profile-trophy  
-   - https://github.com/Platane/snk  
-   - https://github.com/anuraghazra/github-readme-stats  
-   - https://shields.io/  
-   - https://github.com/tandpfun/skill-icons
-2. Personaliza el recurso con tu usuario `mateoPosada82231`.
-3. Copia el snippet HTML/Markdown que te den.
-4. Pégalo en este `README.md` en el bloque comentado correspondiente.
-5. Haz commit y push para verlo reflejado en tu perfil.
