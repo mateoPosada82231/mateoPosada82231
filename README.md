@@ -14,7 +14,7 @@
 </p>
 
 
-![Snake animado](https://raw.githubusercontent.com/mateoPosada82231/mateoPosada82231/output/github-contribution-grid-snake.svg)
+![Snake animado](https://raw.githubusercontent.com/mateoPosada82231/mateoPosada82231/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
