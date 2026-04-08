@@ -32,11 +32,7 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateoPosada82231&show_icons=true&theme=tokyonight&hide_border=true" alt="stats de github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoPosada82231&layout=compact&theme=tokyonight&hide_border=true" alt="lenguajes más usados" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mateoPosada82231&theme=tokyonight&hide_border=true" alt="racha de contribuciones" />
