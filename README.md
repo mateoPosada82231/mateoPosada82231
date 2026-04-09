@@ -27,7 +27,7 @@
 
 ## 🛠️ Tecnologías que uso
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,postgres,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,java,spring,postman,postgres,git,github,linux" />
 </p>
 
 ---
