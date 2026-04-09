@@ -27,7 +27,7 @@
 
 ## 🛠️ Tecnologías que uso
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,postgres,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,spring,postman,node,dockerpostgres,git,github,linux" />
 </p>
 
 ---
@@ -46,15 +46,4 @@
 - 🔹 [compresor-huffman](https://github.com/mateoPosada82231/compresor-huffman) — Implementación del algoritmo Huffman en C++.
 - 🔹 [poliglota-postgres-neo](https://github.com/mateoPosada82231/poliglota-postgres-neo) — Proyecto en Python.
 
----
 
-<!--
-RECURSO 2: SNAKE DE CONTRIBUCIONES
-Página: https://github.com/Platane/snk
-Qué hacer:
-1) Crear un workflow usando la guía del repositorio.
-2) Generar el SVG del snake en tu propio perfil.
-3) Pegar aquí el <img src="...snake.svg" ...>.
--->
-
----
